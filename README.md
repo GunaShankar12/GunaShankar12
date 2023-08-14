@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guna Shankar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Aspiring Machine Learning Engineer | Deep Learning | Artificial Intelligence | Building Intelligent Systems for Data-Driven Solutions | Passionate about Advancing ML Technologies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunashankar12" alt="gunashankar12" /></a> </p>
 
