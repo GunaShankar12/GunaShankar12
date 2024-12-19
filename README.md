@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gunashankar12" alt="gunashankar12" /></a> </p>
 
-- 🔭 I’m currently working on [Phishing Website Detector](https://phishing-website-detector.streamlit.app/)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
